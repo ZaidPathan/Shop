@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Shop View Controller-->
+        <!--Shop-->
         <scene sceneID="CYG-BK-Net">
             <objects>
                 <viewController storyboardIdentifier="ShopViewController" id="YkH-K0-Z4A" customClass="ShopViewController" customModule="ShopModule" customModuleProvider="target" sceneMemberID="viewController">
@@ -32,6 +32,8 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="unP-lk-DBC"/>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Shop" id="tLH-oG-Fzt"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="H1f-Cm-lpw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
