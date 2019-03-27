@@ -1,2 +1,2 @@
 # Shop
-A shop module of PayZaid main app.
+A shop module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
