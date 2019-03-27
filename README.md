@@ -1,2 +1,2 @@
 # Shop
-A shop module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
+A Shop module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
